@@ -6,34 +6,21 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://github.com/jeangnamien
 
 project_entries:
   - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    url: Automated monitoring and recommendation of calls for tenders
+    desc: In collaboration with a consulting firm, I worked on a project to automate the monitoring of calls for tenders and recommend relevant ones to the company based on their field of interest.
 
   - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+    url: Smart management of logistics resources
+    desc: I worked on a project to optimize the allocation of logistics resources using machine learning techniques. The goal was to improve efficiency and reduce costs for the company.
 
   - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+    url: Creation of a Chatbot for my school Ecole Centrale Casablanca
+    desc: I developed a chatbot to assist students and staff with common queries and tasks, improving communication and accessibility within the school community.
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
@@ -49,22 +36,20 @@ old_project_entries:
     url: https://github.com/abhinavs/moonwalk
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Jean's homepage
+    url: https://jeangnamien.github.io
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: linkedin
+    url: https://linkedin.com/in/jeanbedelgnamien
+    
+  
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/jeangnamien
 
-  - title: feed
-    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
