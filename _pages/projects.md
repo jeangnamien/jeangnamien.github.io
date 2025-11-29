@@ -1,8 +1,12 @@
 ---
-layout: page
-title: "Projects"
 permalink: /projects/
+layout: single
+author_profile: true
+title: "Projects"
+toc: false
+toc_sticky: false
 ---
+
 
 # 🚀 My Projects
 

@@ -36,5 +36,5 @@ My work focuses on applying mathematical models, machine learning, and optimizat
   [linkedin.com/in/jeanbedelgnamien](https://www.linkedin.com/in/jean-bedel-bekanfa-gnamien-bb21aa305)
 
 <div align="center" style="margin-top: 50px">
-  <img class='logo' alt="logo_centrale" src="assets/images/logo.jpg" align="bottom" style="width:200px;height:auto;">
+  <img class='logo' alt="logo_centrale" src="assets/images/logo.jpg" align="bottom" style="width:500px;height:auto;">
 </div>

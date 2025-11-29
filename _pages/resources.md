@@ -1,8 +1,12 @@
 ---
-layout: page
-title: "Resources"
 permalink: /resources/
+layout: single
+author_profile: true
+title: "Resources"
+toc: false
+toc_sticky: false
 ---
+
 
 # 📚 Resources
 
