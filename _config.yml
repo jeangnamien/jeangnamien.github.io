@@ -56,4 +56,4 @@ plugins:
 #minimal_mistakes_skin : 'dark'
 
 # Permalink
-permalink: /:categories/:title/
+#permalink: /:categories/:title/
