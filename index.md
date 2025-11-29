@@ -6,9 +6,7 @@ classes: wide
 permalink: /
 ---
 
-<img src="/assets/images/profile.jpg" alt="profile picture" width="180" style="border-radius: 50%;">
-
-# Hi, I’m Jean GNAMIEN 👋  
+  
 ### Data Science & Engineering Student — Centrale Lille & Centrale Casablanca
 
 I am passionate about data science, modeling, mobility optimization, and intelligent systems.  

@@ -18,6 +18,9 @@ minimal_mistakes_skin: "dark"
 
 locale: 'en-US'
 
+include:
+  - _pages
+
 
 # Author profile
 author:
