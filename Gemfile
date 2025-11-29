@@ -10,8 +10,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 # To upgrade, run `bundle update`.
+gem "jekyll", "~> 4.4"
 
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem:

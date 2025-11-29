@@ -1,22 +1,42 @@
 ---
 layout: home
+title: "Jean GNAMIEN"
 author_profile: true
 classes: wide
+permalink: /
 ---
 
-I am currently a Research fellow (Chargé de recherche) at [CNRS](https://www.cnrs.fr/) in the [CRIStAL](https://www.cristal.univ-lille.fr/) Lab in Lille, specifically within the [SigMA](https://www.cristal.univ-lille.fr/equipes/sigma/) team.
+<img src="/assets/images/profile.jpg" alt="profile picture" width="180" style="border-radius: 50%;">
 
-Prior to this, I completed a three-year postdoctoral position in the SigMA team.
+# Hi, I’m Jean GNAMIEN 👋  
+### Data Science & Engineering Student — Centrale Lille & Centrale Casablanca
 
-I earned my PhD at [Binghamton University](https://www.binghamton.edu/), working in the [DDE](http://dde.binghamton.edu/butora/index.php) team under the supervision of [Jessica Fridrich](http://www.ws.binghamton.edu/fridrich/).
+I am passionate about data science, modeling, mobility optimization, and intelligent systems.  
+My work focuses on applying mathematical models, machine learning, and optimization techniques to real-world problems.
 
-## Research interests
+## Interests & Skills
+- Urban mobility modeling and optimization  
+- Epidemiological modeling (SEIR models, epidemic simulation)  
+- Machine learning & deep learning (classification, prediction)  
+- Data analysis and visualization (Python, dashboards)  
+- Algorithmic and operations research (Dijkstra, routing, optimization)  
+- Software development (Python, web apps, chatbots)  
+- Multimedia signal processing (audio, malware detection via audio representation)  
 
-Media forensics, steganography, steganalysis, generated content detection, watermarking, statistical image modelling, explainable deep learning
+## 🔗 Useful Links
 
-<div align="middle" style="margin-top: 50px">
-  <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/logo_cnrs.png" align="bottom" style="width:100px;height:100px;"></a>
+- 📄 **Download my business card**  
+  [Latest business card (PDF)](https://github.com/jeangnamien/Lab/releases/latest/download/card.pdf)
 
-<a href="https://www.cristal.univ-lille.fr/en"><img class='logo' alt="logo_cristal" src="assets/images/logo_cristal.png" align="bottom" style="width:260px;height:90px;"></a>
+- 📘 **Download my CV**  
+  [My CV](https://github.com/jeangnamien/Lab/raw/master/CV.pdf)
 
+- 🧑‍💻 **GitHub Profile**  
+  [github.com/jeangnamien](https://github.com/jeangnamien)
+
+- 🔗 **LinkedIn Profile**  
+  [linkedin.com/in/jeanbedelgnamien](https://www.linkedin.com/in/jean-bedel-bekanfa-gnamien-bb21aa305)
+
+<div align="center" style="margin-top: 50px">
+  <img class='logo' alt="logo_centrale" src="assets/images/logo.jpg" align="bottom" style="width:200px;height:auto;">
 </div>
